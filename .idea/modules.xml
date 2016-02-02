@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bookkeeping.iml" filepath="$PROJECT_DIR$/Bookkeeping.iml" />
       <module fileurl="file://$PROJECT_DIR$/bookkeeping.iml" filepath="$PROJECT_DIR$/bookkeeping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa/jpa.iml" filepath="$PROJECT_DIR$/jpa/jpa.iml" />
     </modules>
   </component>
 </project>
